@@ -1,0 +1,43 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.thumb-image {
+  width: 100px;
+}
+
+.update-image {
+  width: 20%;
+}
+
+form {
+  width: 100%;
+}
+
+td {
+  vertical-align: middle;
+}
+
+/* .thumb-image {
+  display: block;
+  width: clamp(25%, 100px, 80%);
+} */
+
+.index-form-btn {
+  display: flex;
+  gap: 0.5em;
+}
+/* 
+form {
+  display: none;
+} */
