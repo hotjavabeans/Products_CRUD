@@ -1,0 +1,15 @@
+{
+    "name": "james/good",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "hotjavabeans",
+            "email": "james-ware@hotmail.co.uk"
+        }
+    ],
+    "require": {}
+}
